@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+env/
+venv/
+ENV/
+
+# Data & database logs (keep sample seed, ignore local tracker db if modified)
+*.sqlite3
+*.log
+.DS_Store
+Thumbs.db
